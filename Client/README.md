@@ -11,9 +11,3 @@ To run Project use `npm start`
 
 
 
-
-## Backend
-
-
-The Backend Is Already Deployed on Heroku but if you want code Here is the link
- - [Backend](https://github.com/Netixsol/invoice-backend)
